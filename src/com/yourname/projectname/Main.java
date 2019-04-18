@@ -1,6 +1,6 @@
 package com.yourname.projectname;
 
-import com.yourname.projectname.core.airplane.BowerFlyBaby;
+import com.yourname.projectname.core.vehicle.airplane.BowerFlyBaby;
 
 public class Main {
 

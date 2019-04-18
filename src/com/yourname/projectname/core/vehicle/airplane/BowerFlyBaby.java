@@ -1,4 +1,4 @@
-package com.yourname.projectname.core.airplane;
+package com.yourname.projectname.core.vehicle.airplane;
 
 public class BowerFlyBaby extends Airplane {
 

@@ -1,6 +1,6 @@
-package com.yourname.projectname.core.airplane;
+package com.yourname.projectname.core.vehicle.airplane;
 
-import com.yourname.projectname.core.Vehicle;
+import com.yourname.projectname.core.vehicle.Vehicle;
 
 public class Airplane extends Vehicle {
 

@@ -1,4 +1,4 @@
-package com.yourname.projectname.core;
+package com.yourname.projectname.core.vehicle;
 
 public abstract class Vehicle {
 
