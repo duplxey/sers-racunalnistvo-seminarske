@@ -25,4 +25,8 @@ public class Cube extends Shape3D {
     public double getDiagonal() {
         return a * 1.73;
     }
+
+    public double getA() {
+        return a;
+    }
 }

@@ -20,4 +20,8 @@ public class Circle extends Shape2D {
     public double getDiagonal() {
         return 2*r;
     }
+
+    public double getR() {
+        return r;
+    }
 }
