@@ -7,14 +7,16 @@ public class ShapeMain {
 
     public static void main(String[] args) {
         Cube cube = new Cube(5);
-        System.out.println(cube.getA());
-        System.out.println(cube.getSurface());
-        System.out.println(cube.getVolume());
-        System.out.println(cube.getDiagonal());
+        System.out.println("-*- Cube -*-");
+        System.out.println("a: " + cube.getA());
+        System.out.println("surface: " + cube.getSurface());
+        System.out.println("volume: " + cube.getVolume());
+        System.out.println("diagonal: " + cube.getDiagonal());
 
+        System.out.println("-*- Circle -*-");
         Circle circle = new Circle(2.5);
-        System.out.println(circle.getR());
-        System.out.println(circle.getArea());
-        System.out.println(circle.getDiagonal());
+        System.out.println("r: " + circle.getR());
+        System.out.println("area: " + circle.getArea());
+        System.out.println("diagonal: " + circle.getDiagonal());
     }
 }
