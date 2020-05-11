@@ -10,7 +10,7 @@ Repozitorij je vglavnem razdeljen na 3 dele:
 ## Uporaba/licenca
 Naloge lahko prosto uporabljate, lahko oddate iste ali pa si jih vzamete za zgled. Nekatere naloge so malo težje, druge lažje, vse so pa prejele relativno dobro oceno.
 
-:warning: OPOZORILO: če oddate iste naloge za vaše ocene ne odgovarjam! :warning:
+:warning: OPOZORILO: za vaše ocene ne odgovarjam :warning:
 
 ## Contributing
 Če želite lahko dodate tudi svoje seminarske naloge. Odprite nov pull request in ga bom sprejel v primeru, da naloga ustreza navodilom.
