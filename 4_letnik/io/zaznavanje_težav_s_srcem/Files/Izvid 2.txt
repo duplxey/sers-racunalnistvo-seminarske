@@ -1,0 +1,16 @@
+Blaz Psenicnik
+    Date: 22. 12. 2019 - 17:16:13
+
+    Age: 18 years
+    Body mass index: 24.395885 kg/m2
+    Systolic pressure: 107 mmHg
+    Diastolic pressure: 65 mmHg
+    Heart rate: 42 beats/minute
+    Weight: 84.4 kg
+    Height: 1.86 m
+
+    Heart health: ok
+      Body mass index: ok
+      Heart rate: optimal
+      Systolic pressure: ok
+      Diastolic pressure: optimal
