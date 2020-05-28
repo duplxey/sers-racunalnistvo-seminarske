@@ -1,5 +1,5 @@
 # sers_racunalnistvo_seminarske
-Tukaj so zbrane vse seminarske naloge, ki sem jih napisal pri RAČv (profesorica: VM) na Srednji elekto-računalniški šoli Maribor (2018/2019, 2019/2020).
+Tukaj so zbrane vse seminarske naloge, ki sem jih napisal (+ vsi contributorji) pri RAČv (profesorica: VM) na Srednji elekto-računalniški šoli Maribor (2018/2019, 2019/2020).
 
 ## Struktura
 Repozitorij je vglavnem razdeljen na 3 dele:
@@ -10,7 +10,7 @@ Repozitorij je vglavnem razdeljen na 3 dele:
 ## Uporaba/licenca
 Naloge lahko prosto uporabljate, lahko oddate iste ali pa si jih vzamete za zgled. Nekatere naloge so malo težje, druge lažje, vse so pa prejele relativno dobro oceno.
 
-:warning: OPOZORILO: za vaše ocene ne odgovarjam :warning:
+:warning: OPOZORILO: za prejete ocene ste odgovorni sami :warning:
 
 ## Contributing
 Če želite lahko dodate tudi svoje seminarske naloge. Odprite nov pull request in ga bom sprejel v primeru, da naloga ustreza navodilom.
