@@ -1,0 +1,5 @@
+Uporabniki se delijo na že obstoječe in na nove uporabnike. Sekundarni akter pa je strežnik za
+sporočanje, ki hrani sporočila. Novi uporabniki se lahko registrirajo, pri tem pa so jim lahko prikazani
+pogoji uporabe. Že obstoječi uporabniki pa se lahko prijavijo, pridobijo vsa sporočila, sprejmejo ali
+pošljejo prošnjo za prijateljstvo ali pa pošljejo sporočilo. Pošljejo pa lahko tekstovno sporočilo ali pa
+sliko. Če pri prijavi pride do napake, je le-ta prikazana. Pri prijavi se tudi preverijo poverilnice.
